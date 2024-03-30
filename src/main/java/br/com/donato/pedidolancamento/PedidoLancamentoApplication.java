@@ -10,4 +10,5 @@ public class PedidoLancamentoApplication {
 		SpringApplication.run(PedidoLancamentoApplication.class, args);
 	}
 
+
 }
